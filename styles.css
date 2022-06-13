@@ -7,12 +7,14 @@
 
 @import url("styles/carrossel.css");
 
+@import url("styles/card.css");
+
 :root{
     --cor-de-fundo: #ebecee;
     --branco: #ffffff;
     --laranja: #EB9B00;
     --azul-degrade:linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
-
+    --azul: #002f52;
     --fonte-principal: "Poopins", sans-serif;
 }
 
