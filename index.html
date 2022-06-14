@@ -71,12 +71,12 @@
             <!-- coluna 2 -->
             <img src="img/card/logo angular.svg" alt="Logo angular" class="descricao__imagem">
         </div>
-
+        
         <!-- linha 2 -->
         <div class="card__botoes">
             <ul class="botoes">
-              <li class="botoes__item"><img src="img/card/Favoritos.svg" alt="Favoritar livro"></li>  
-              <li class="botoes__item"><img src="img/card/Compras.svg" alt="Adicionar ao carrinho"></li>  
+                <li class="botoes__item"><img src="img/card/Favoritos.svg" alt="Favoritar livro"></li>  
+                <li class="botoes__item"><img src="img/card/Compras.svg" alt="Adicionar ao carrinho"></li>  
             </ul>
             <!-- coluna 2 -->
             <a href="#" class="botoes__link">Saiba mais</a>
@@ -99,10 +99,10 @@
                 <div class="swiper-slide"><img src="img/carrossel/Nodejs.svg" alt="Livro sobre Construct2"></div>
                 ...
             </div>
-
-                <!-- If we need navigation buttons -->
-                <div class="swiper-button-prev" id="carrossel-botao-anterior"></div>
-                <div class="swiper-button-next" id="carrossel-botao-proximo"></div>
+            
+            <!-- If we need navigation buttons -->
+            <div class="swiper-button-prev" id="carrossel-botao-anterior"></div>
+            <div class="swiper-button-next" id="carrossel-botao-proximo"></div>
         </div>
     </section>
     <section class="card">
@@ -118,28 +118,42 @@
             <!-- coluna 2 -->
             <img src="img/card/Perfil-escritora 1.svg" alt="Logo angular" class="descricao__imagem">
         </div>
-
+        
         <!-- linha 2 -->
         <div class="card__botoes">
             <ul class="botoes">
-              <li class="botoes__item"><img src="img/card/Favoritos.svg" alt="Favoritar livro"></li>  
-              <li class="botoes__item"><img src="img/card/Compras.svg" alt="Adicionar ao carrinho"></li>  
+                <li class="botoes__item"><img src="img/card/Favoritos.svg" alt="Favoritar livro"></li>  
+                <li class="botoes__item"><img src="img/card/Compras.svg" alt="Adicionar ao carrinho"></li>  
             </ul>
             <!-- coluna 2 -->
             <a href="#" class="botoes__link">Saiba mais</a>
         </div>
     </section>
+    <section class="topicos">
+        <h2 class="topicos__titulo">TÓPICOS VISITADOS RECENTEMENTE</h2>
+        <ul class="topicos__lista">
+            <li class="topicos_item"><a href="#" class="topicos__link">Android</a></li>
+            <li class="topicos_item"><a href="#" class="topicos__link">Marketing digital</a></li>
+            <li class="topicos_item"><a href="#" class="topicos__link">Agile</a></li>
+            <li class="topicos_item"><a href="#" class="topicos__link">startups</a></li>
+            <li class="topicos_item"><a href="#" class="topicos__link">html & css</a></li>
+            <li class="topicos_item"><a href="#" class="topicos__link">python</a></li>
+            <li class="topicos_item"><a href="#" class="topicos__link">OO</a></li>
+            <li class="topicos_item"><a href="#" class="topicos__link">java</a></li>
+        </ul>
+        
+    </section>
 </body>
 <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
 <script>
     const swiper = new Swiper('.swiper', {
-    spaceBetween: 10,
-    slidesPerView: 3,
-    
-    pagination: {
-        el: '.swiper-pagination',
-        type: 'bullets',
-      }
-});
+        spaceBetween: 10,
+        slidesPerView: 3,
+        
+        pagination: {
+            el: '.swiper-pagination',
+            type: 'bullets',
+        }
+    });
 </script>
 </html>
