@@ -1,3 +1,7 @@
+.descricao {
+    margin-right: 1.5em;
+}
+
 .card__descricao {
     display: flex;
     justify-content: space-between;
@@ -11,6 +15,7 @@
 
 .botoes {
     display: flex;
+    align-items: center;
 }
 
 .card {
