@@ -22,3 +22,20 @@
     margin: .5em 0;
 }
 
+@media screen and (min-width: 1024px) {
+    .carrossel__titulo {
+        font-size: 26px;
+    }
+    .swiper-pagination,
+    #carrossel-bullets {
+        margin: 2em 0 3em 0;
+    }
+    .swiper {
+        width: 60%;
+    }
+    #carrossel-botao-anterior,
+    #carrossel-botao-proximo {
+        display: block;
+        top: 60%;
+    }
+}
