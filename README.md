@@ -1,9 +1,29 @@
 # **Alura Books**
-![Logo](https://user-images.githubusercontent.com/92818317/174611923-b9b96e6c-8a0b-4fd9-900d-ac9b03859b8a.svg)
 
-<!-- ![Badge Em Desenvolvimento](https://img.shields.io/badge/Status%20do%20projeto-Em%20desenvolvimento-critical) -->
+Esse projeto foi feito usando a metodologia de `Mobile First`. Apresentando assim um design responsivo.
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Status%20do%20projeto-Em%20desenvolvimento-critical">
-</p>
 
+O Projeto aluraBooks foi desenvolvido com base nas aulas de Fronte-End ministradas na  [Alura](https://www.alura.com.br)
+
+
+
+> ## O projeto
+> <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow" target="_blank">
+> 
+
+> ## Responsividade
+> <div>
+>     <img src="https://img.shields.io/badge/Desktop-Sim-greem" target="_blank" style="margin-right:20px">
+>    <img src="https://img.shields.io/badge/Tablet-Sim-greem" target="_blank" style="margin-right:20px">
+>     <img src="https://img.shields.io/badge/Mobile-Em%20Desenvolvimento-yellow" target="_blank">
+> </div>
+
+> ## Tecnologias
+> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+> " target="_blank" style="margin-right:20px">
+> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+> " target="_blank" style="margin-right:20px">
+> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+> " target="_blank" style="margin-right:20px">
+
+### Visite o Prototipo do site [aqui](https://alura-books-qoyq5p34x-thiagopertile.vercel.app)
