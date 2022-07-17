@@ -1,10 +1,7 @@
 # **Alura Books**
 
-
 Esse projeto foi feito usando a metodologia de `Mobile First`.
 <br> 
-=======
-Esse projeto foi feito usando a metodologia de `Mobile First`. 
 
 Apresentando assim um design responsivo.
 
