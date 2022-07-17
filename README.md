@@ -1,6 +1,8 @@
 # **Alura Books**
 
-Esse projeto foi feito usando a metodologia de `Mobile First`. Apresentando assim um design responsivo.
+Esse projeto foi feito usando a metodologia de `Mobile First`.
+<br> 
+Apresentando assim um design responsivo.
 
 
 O Projeto aluraBooks foi desenvolvido com base nas aulas de Fronte-End ministradas na  [Alura](https://www.alura.com.br)
