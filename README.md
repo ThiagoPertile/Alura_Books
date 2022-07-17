@@ -22,7 +22,7 @@ O Projeto aluraBooks foi desenvolvido com base nas aulas de Fronte-End ministrad
 > </div>
 
 > ## Tecnologias
-> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 > " target="_blank" style="margin-right:20px">
 > <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 > " target="_blank" style="margin-right:20px">
